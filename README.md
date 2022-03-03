@@ -26,7 +26,7 @@
 <h3 align="center">•••</h3>
 <p align="center">
   <a href="https://programmers.co.kr/pr/tkdalsgks"><img src="https://img.shields.io/badge/RESUME-00A98F?style=for-the-badge&logo=about.me&logoColor=white" /></a>&nbsp;
-  <a href="https://tkdalsgks.tistory.com"><img src="https://img.shields.io/badge/Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white" /></a>&nbsp;
+  <a href="https://tkdalsgks.github.io"><img src="https://img.shields.io/badge/Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white" /></a>&nbsp;
   <a href="mailto:hsm_01@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hsm_01@naver.com" /></a>
 </p>
 
