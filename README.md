@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://programmers.co.kr/pr/tkdalsgks"><img src="https://img.shields.io/badge/RESUME-00A98F?style=for-the-badge&logo=about.me&logoColor=white" /></a>&nbsp;
   <a href="https://tkdalsgks.github.io"><img src="https://img.shields.io/badge/Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white" /></a>&nbsp;
-  <a href="mailto:hsm_01@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hsm_01@naver.com" /></a>
+  <a href="mailto:alstkdgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hsm_01@naver.com" /></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
